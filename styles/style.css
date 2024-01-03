@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.jone {
+  border: 1px solid white;
+}
+
+.initial {
+  color: aliceblue;
+  font-weight: 400;
+  position: absolute;
+  left: 40%;
+  font-size: 40px;
+  top: 35%;
+}
+.scale {
+  color: aliceblue;
+  font-weight: 300;
+  position: absolute;
+  font-size: 24px;
+  top: 43%;
+  left: 42%;
+}
